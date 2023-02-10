@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2023/02/11/lady-with-a.html",
+				
+				"content_html": "<p>Lady with a Dog and a Half (1963) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/3fc34ad7dd.png\" width=\"387\" height=\"600\" alt=\"Lady with a Dog and a Half (1963) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Lady with a Dog and a Half (1963) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/3fc34ad7dd.png\" width=\"387\" height=\"600\" alt=\"Lady with a Dog and a Half (1963) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"date_published": "2023-02-11T08:26:44+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/11/lady-with-a.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/02/09/man-holding-child.html",
+				
+				"content_html": "<p>Man Holding Child (1965) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/bfca3c4ef0.png\" width=\"600\" height=\"386\" alt=\"Man Holding Child (1965) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Man Holding Child (1965) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/bfca3c4ef0.png\" width=\"600\" height=\"386\" alt=\"Man Holding Child (1965) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"date_published": "2023-02-09T14:41:42+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/09/man-holding-child.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/02/08/sunday-afternoon-by.html",
+				
+				"content_html": "<p>Sunday Afternoon (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/ea04b38d56.png\" width=\"600\" height=\"468\" alt=\"Sunday Afternoon (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Sunday Afternoon (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/ea04b38d56.png\" width=\"600\" height=\"468\" alt=\"Sunday Afternoon (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"date_published": "2023-02-08T11:57:55+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/08/sunday-afternoon-by.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/02/07/winter-in-broughton.html",
+				
+				"content_html": "<p>Winter in Broughton (1969 - 72) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/1722cc4143.png\" width=\"600\" height=\"472\" alt=\"Winter in Broughton (1969 - 72) by Laurence Stephen Lowry (1887 - 1976), English artist\"></p>\n",
+				"content_text": "Winter in Broughton (1969 - 72) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/1722cc4143.png\" width=\"600\" height=\"472\" alt=\"Winter in Broughton (1969 - 72) by Laurence Stephen Lowry (1887 - 1976), English artist\">\n",
+				"date_published": "2023-02-07T17:51:18+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/07/winter-in-broughton.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2023/02/05/the-pavilion-by.html",
 				
 				"content_html": "<p>The Pavilion (1969 - 72) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/d42d104c82.png\" width=\"600\" height=\"473\" alt=\"\"><img src=\"uploads/2023/cecf4883dc.png\" width=\"600\" height=\"473\" alt=\"\"><img src=\"uploads/2023/68a8b34cda.png\" width=\"600\" height=\"473\" alt=\"The Pavilion (1969 - 72) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
@@ -17,32 +49,32 @@
 			{
 				"id": "http://duncanhart.micro.blog/2023/02/02/seaside-promenade-by.html",
 				
-				"content_html": "<p>Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/3e5955b03a.png\" width=\"600\" height=\"474\" alt=\"Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/3e5955b03a.png\" width=\"600\" height=\"474\" alt=\"Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/3e5955b03a.png\" width=\"600\" height=\"474\" alt=\"Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/3e5955b03a.png\" width=\"600\" height=\"474\" alt=\"Seaside Promenade (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-02-02T09:06:44+11:00",
 				"url": "https://micro.duncanhart.com/2023/02/02/seaside-promenade-by.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/02/01/bloomsbury-square-by.html",
 				
-				"content_html": "<p>Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/df2a0d862b.png\" width=\"600\" height=\"474\" alt=\"Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/df2a0d862b.png\" width=\"600\" height=\"474\" alt=\"Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/df2a0d862b.png\" width=\"600\" height=\"474\" alt=\"Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/df2a0d862b.png\" width=\"600\" height=\"474\" alt=\"Bloomsbury Square (1967-8) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-02-01T07:33:30+11:00",
 				"url": "https://micro.duncanhart.com/2023/02/01/bloomsbury-square-by.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/01/31/the-bandstand-peel.html",
 				
-				"content_html": "<p>The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/4ed4e0f184.png\" width=\"600\" height=\"411\" alt=\"The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/4ed4e0f184.png\" width=\"600\" height=\"411\" alt=\"The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/4ed4e0f184.png\" width=\"600\" height=\"411\" alt=\"The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/4ed4e0f184.png\" width=\"600\" height=\"411\" alt=\"The Bandstand, Peel Park, Salford (1931) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-01-31T09:30:37+11:00",
 				"url": "https://micro.duncanhart.com/2023/01/31/the-bandstand-peel.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/01/30/head-of-a.html",
 				
-				"content_html": "<p>Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/0a17b1730c.png\" width=\"460\" height=\"600\" alt=\"Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/0a17b1730c.png\" width=\"460\" height=\"600\" alt=\"Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/0a17b1730c.png\" width=\"460\" height=\"600\" alt=\"Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/0a17b1730c.png\" width=\"460\" height=\"600\" alt=\"Head of a Boy (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-01-30T10:09:36+11:00",
 				"url": "https://micro.duncanhart.com/2023/01/30/head-of-a.html"
 			},
