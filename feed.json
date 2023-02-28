@@ -7,42 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2023/02/28/the-north-sea.html",
+				
+				"content_html": "<p>The North Sea (1966) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/240b0e6531.png\" width=\"600\" height=\"383\" alt=\"The North Sea (1966) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "The North Sea (1966) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/240b0e6531.png\" width=\"600\" height=\"383\" alt=\"The North Sea (1966) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"date_published": "2023-02-28T16:56:05+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/28/the-north-sea.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/02/27/seascape-circa-by.html",
+				
+				"content_html": "<p>Seascape (circa 1960) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/d238eab6fc.png\" width=\"600\" height=\"414\" alt=\"Seascape (circa 1960) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Seascape (circa 1960) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/d238eab6fc.png\" width=\"600\" height=\"414\" alt=\"Seascape (circa 1960) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"date_published": "2023-02-27T08:21:57+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/27/seascape-circa-by.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/02/26/three-figures-by.html",
+				
+				"content_html": "<p>Three Figures (1944) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/90d6e2f1c2.png\" width=\"418\" height=\"600\" alt=\"Three Figures (1944) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Three Figures (1944) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/90d6e2f1c2.png\" width=\"418\" height=\"600\" alt=\"Three Figures (1944) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"date_published": "2023-02-26T09:06:37+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/26/three-figures-by.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/02/25/old-building-edinburgh.html",
+				
+				"content_html": "<p>Old Building, Edinburgh (1937) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/a1c559d864.png\" width=\"478\" height=\"600\" alt=\"\"></p>\n",
+				"content_text": "Old Building, Edinburgh (1937) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/a1c559d864.png\" width=\"478\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-25T12:43:39+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/25/old-building-edinburgh.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/02/23/berwick-upon-tweed.html",
+				
+				"content_html": "<p>Berwick upon Tweed (1959) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/9d33dd35a8.png\" width=\"600\" height=\"428\" alt=\"Berwick upon Tweed (1959) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Berwick upon Tweed (1959) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/9d33dd35a8.png\" width=\"600\" height=\"428\" alt=\"Berwick upon Tweed (1959) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"date_published": "2023-02-23T10:38:49+11:00",
+				"url": "https://micro.duncanhart.com/2023/02/23/berwick-upon-tweed.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2023/02/22/view-of-whitby.html",
 				
-				"content_html": "<p>View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/7c5823297c.png\" width=\"411\" height=\"600\" alt=\"View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/7c5823297c.png\" width=\"411\" height=\"600\" alt=\"View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/7c5823297c.png\" width=\"411\" height=\"600\" alt=\"View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/7c5823297c.png\" width=\"411\" height=\"600\" alt=\"View of Whitby (1955) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-02-22T11:00:09+11:00",
 				"url": "https://micro.duncanhart.com/2023/02/22/view-of-whitby.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/02/21/man-looking-out.html",
 				
-				"content_html": "<p>Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/236369f9e7.png\" width=\"419\" height=\"600\" alt=\"Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/236369f9e7.png\" width=\"419\" height=\"600\" alt=\"Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/236369f9e7.png\" width=\"419\" height=\"600\" alt=\"Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/236369f9e7.png\" width=\"419\" height=\"600\" alt=\"Man looking out to sea (1971) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-02-21T07:20:22+11:00",
 				"url": "https://micro.duncanhart.com/2023/02/21/man-looking-out.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/02/20/man-with-umbrella.html",
 				
-				"content_html": "<p>Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/22090de183.png\" width=\"259\" height=\"600\" alt=\"Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/22090de183.png\" width=\"259\" height=\"600\" alt=\"Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/22090de183.png\" width=\"259\" height=\"600\" alt=\"Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/22090de183.png\" width=\"259\" height=\"600\" alt=\"Man with umbrella (study) (1951) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-02-20T10:06:59+11:00",
 				"url": "https://micro.duncanhart.com/2023/02/20/man-with-umbrella.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/02/17/yacht-race-by.html",
 				
-				"content_html": "<p>Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/d081894aa1.png\" width=\"600\" height=\"497\" alt=\"Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/d081894aa1.png\" width=\"600\" height=\"497\" alt=\"Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/d081894aa1.png\" width=\"600\" height=\"497\" alt=\"Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/d081894aa1.png\" width=\"600\" height=\"497\" alt=\"Yacht race (1962) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-02-17T12:29:01+11:00",
 				"url": "https://micro.duncanhart.com/2023/02/17/yacht-race-by.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/02/16/boy-with-dog.html",
 				
-				"content_html": "<p>Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/b5a0f8b22d.png\" width=\"363\" height=\"600\" alt=\"Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/b5a0f8b22d.png\" width=\"363\" height=\"600\" alt=\"Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/b5a0f8b22d.png\" width=\"363\" height=\"600\" alt=\"Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/b5a0f8b22d.png\" width=\"363\" height=\"600\" alt=\"Boy with Dog (1969) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-02-16T09:06:29+11:00",
 				"url": "https://micro.duncanhart.com/2023/02/16/boy-with-dog.html"
 			},
@@ -241,24 +281,24 @@
 			{
 				"id": "http://duncanhart.micro.blog/2023/01/17/the-doctors-visit.html",
 				"title": "The Doctor's Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.",
-				"content_html": "<p>The Doctor&rsquo;s Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/2128ac5a50.png\" width=\"600\" height=\"479\" alt=\"The Doctor's Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "The Doctor's Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/2128ac5a50.png\" width=\"600\" height=\"479\" alt=\"The Doctor's Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>The Doctor&rsquo;s Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/2128ac5a50.png\" width=\"600\" height=\"479\" alt=\"The Doctor's Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "The Doctor's Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/2128ac5a50.png\" width=\"600\" height=\"479\" alt=\"The Doctor's Visit (Unknown) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-01-17T09:22:13+11:00",
 				"url": "https://micro.duncanhart.com/2023/01/17/the-doctors-visit.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/01/16/a-street-scene.html",
 				"title": "A Street Scene (St Simon's Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.",
-				"content_html": "<p>A Street Scene (St Simon&rsquo;s Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/d9ba00afe9.png\" width=\"507\" height=\"600\" alt=\"A Street Scene (St Simon's Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "A Street Scene (St Simon's Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/d9ba00afe9.png\" width=\"507\" height=\"600\" alt=\"A Street Scene (St Simon's Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>A Street Scene (St Simon&rsquo;s Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/d9ba00afe9.png\" width=\"507\" height=\"600\" alt=\"A Street Scene (St Simon's Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "A Street Scene (St Simon's Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/d9ba00afe9.png\" width=\"507\" height=\"600\" alt=\"A Street Scene (St Simon's Church) (1928) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-01-16T07:41:36+11:00",
 				"url": "https://micro.duncanhart.com/2023/01/16/a-street-scene.html"
 			},
 			{
 				"id": "http://duncanhart.micro.blog/2023/01/15/landscape-with-road.html",
 				"title": "Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.",
-				"content_html": "<p>Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"uploads/2023/f82dfea3ea.png\" width=\"600\" height=\"296\" alt=\"Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
-				"content_text": "Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/f82dfea3ea.png\" width=\"600\" height=\"296\" alt=\"Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_html": "<p>Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n\n<p><img src=\"https://cdn.uploads.micro.blog/41163/2023/f82dfea3ea.png\" width=\"600\" height=\"296\" alt=\"Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.\"></p>\n",
+				"content_text": "Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/f82dfea3ea.png\" width=\"600\" height=\"296\" alt=\"Landscape with Road (1941) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-01-15T17:05:37+11:00",
 				"url": "https://micro.duncanhart.com/2023/01/15/landscape-with-road.html"
 			},
