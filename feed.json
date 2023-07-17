@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2023/07/17/monday-morning-starts.html",
+				
+				"content_html": "<p>Monday morning starts well. @ Brother Baba Budan, Little Bourke Street, Melbourne VIC 3000.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Monday morning starts well. @ Brother Baba Budan, Little Bourke Street, Melbourne VIC 3000.\n\n<img src=\"uploads/2023/40f7af746f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-17T10:22:20+10:00",
+				"url": "https://micro.duncanhart.com/2023/07/17/monday-morning-starts.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2023/07/04/the-possibilities-of.html",
 				
 				"content_html": "<p>The possibilities of personal knowledge graphs I find very exciting. A great read on the subject is Personal Knowledge Graphs edited by Ivo Velitchkov and George Anadiotis &lt;<a href=\"https://personalknowledgegraphs.com\">personalknowledgegraphs.com</a>&gt;</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2023/03/03/alexander-the-great.html",
 				
 				"content_html": "<p>Alexander the Great (1909) by Laurence Stephen Lowry (1887 - 1976), English artist.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Alexander the Great (1909) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"uploads/2023/2072670d8d.png\" width=\"422\" height=\"600\" alt=\"Alexander the Great (1909) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
+				"content_text": "Alexander the Great (1909) by Laurence Stephen Lowry (1887 - 1976), English artist.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/2072670d8d.png\" width=\"422\" height=\"600\" alt=\"Alexander the Great (1909) by Laurence Stephen Lowry (1887 - 1976), English artist.\">\n",
 				"date_published": "2023-03-03T09:42:41+10:00",
 				"url": "https://micro.duncanhart.com/2023/03/03/alexander-the-great.html"
 			},
