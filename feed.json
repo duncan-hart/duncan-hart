@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2023/10/23/today-ive-mostly.html",
+				
+				"content_html": "<p>Today I’ve mostly been listening to <!-- raw HTML omitted -->Shingo Nakamura<!-- raw HTML omitted -->.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today I’ve mostly been listening to <a href=\"https://ja.wikipedia.org/wiki/Shingo_Nakamura?wprov=sfti1\">Shingo Nakamura</a>.\n\n<img src=\"uploads/2023/5889152cd9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-10-23T17:43:00+10:00",
+				"url": "https://micro.duncanhart.com/2023/10/23/today-ive-mostly.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/10/19/today-im-mostly.html",
+				
+				"content_html": "<p>Today I&rsquo;m mostly reading <!-- raw HTML omitted -->&lsquo;Building Trust&rsquo;                         <!-- raw HTML omitted --> by Robert Solomon &amp; Fernando Flores. #trust</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today I'm mostly reading <a href=\"https://doi.org/10.1093/0195161114.001.0001\">'Building Trust'                         </a> by Robert Solomon & Fernando Flores. #trust\r\n\n\n<img src=\"uploads/2023/image-67195905.jpg\" width=\"450\" height=\"600\" alt=\"Front cover of the book 'Building Trust' by Robert Solomon and Fernando Flores.\">\n",
+				"date_published": "2023-10-19T10:55:25+10:00",
+				"url": "https://micro.duncanhart.com/2023/10/19/today-im-mostly.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2023/10/16/cultiver-son-jardin.html",
 				
 				"content_html": "<p>“Cultiver son jardin intérieur”…. to tend to your internal garden, to take care of your mind.</p>\n",
