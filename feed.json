@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2023/11/24/the-world-is.html",
+				
+				"content_html": "<p>&ldquo;The world is changing fast and the parts that aren&rsquo;t no longer interest me.&rdquo; Hugh McLeod, Gapingvoid</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "\"The world is changing fast and the parts that aren't no longer interest me.\" Hugh McLeod, Gapingvoid\n\n<img src=\"uploads/2023/img-8465.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-24T09:58:54+11:00",
+				"url": "https://micro.duncanhart.com/2023/11/24/the-world-is.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/11/19/today-im-mostly.html",
+				
+				"content_html": "<p>Today I’m mostly reading ‘Think before you Think’ by Stafford Beer.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today I’m mostly reading ‘Think before you Think’ by Stafford Beer.\n\n<img src=\"uploads/2023/0d672fdd18.jpg\" width=\"450\" height=\"600\" alt=\"Front cover of ‘Think before you Think’ by Stafford Beer.\">\n",
+				"date_published": "2023-11-19T13:51:35+11:00",
+				"url": "https://micro.duncanhart.com/2023/11/19/today-im-mostly.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/11/16/im-finding-rssemail.html",
+				
+				"content_html": "<p>I’m finding rss2email highly functional <a href=\"https://github.com/rss2email/rss2email\">github.com/rss2email&hellip;</a></p>\n",
+				"content_text": "I’m finding rss2email highly functional [github.com/rss2email...](https://github.com/rss2email/rss2email)\n",
+				"date_published": "2023-11-16T20:02:41+11:00",
+				"url": "https://micro.duncanhart.com/2023/11/16/im-finding-rssemail.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2023/11/16/life-emerges.html",
 				
 				"content_html": "<p>Life emerges.</p>\n<!-- raw HTML omitted -->\n",
