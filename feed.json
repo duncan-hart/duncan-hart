@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2023/12/03/griffiths-island-lighthouse.html",
+				
+				"content_html": "<p>Griffiths Island Lighthouse, Port Fairy, Victoria.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Griffiths Island Lighthouse, Port Fairy, Victoria.\n\n<img src=\"uploads/2023/dc38d50560.jpg\" width=\"450\" height=\"600\" alt=\"Griffiths Island Lighthouse, Port Fairy, Victoria.\">\n",
+				"date_published": "2023-12-03T08:53:27+11:00",
+				"url": "https://micro.duncanhart.com/2023/12/03/griffiths-island-lighthouse.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/11/26/at-south-melbourne.html",
+				
+				"content_html": "<p>At South Melbourne Market and no one is wearing a mask 😷 (except me) 🙁.</p>\n",
+				"content_text": "At South Melbourne Market and no one is wearing a mask 😷 (except me) 🙁.\n",
+				"date_published": "2023-11-26T13:04:34+11:00",
+				"url": "https://micro.duncanhart.com/2023/11/26/at-south-melbourne.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2023/11/24/the-world-is.html",
 				
 				"content_html": "<p>&ldquo;The world is changing fast and the parts that aren&rsquo;t no longer interest me.&rdquo; Hugh McLeod, Gapingvoid</p>\n<!-- raw HTML omitted -->\n",
