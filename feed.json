@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/01/01/yarra-river-trail.html",
+				
+				"content_html": "<p>Yarra river trail, Melbourne, Victoria. #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yarra river trail, Melbourne, Victoria. #dailyphotography\n\n<img src=\"uploads/2023/334a91d247.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-01-01T09:09:03+11:00",
+				"url": "https://micro.duncanhart.com/2024/01/01/yarra-river-trail.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/12/30/tanacetum-parthenium-feverfew.html",
+				
+				"content_html": "<p>Tanacetum parthenium, Feverfew. #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tanacetum parthenium, Feverfew. #dailyphotography\n\n<img src=\"uploads/2023/95bc34ea5d.jpg\" width=\"600\" height=\"388\" alt=\"\">\n",
+				"date_published": "2023-12-30T20:03:10+11:00",
+				"url": "https://micro.duncanhart.com/2023/12/30/tanacetum-parthenium-feverfew.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2023/12/30/gerbera-dailyphotography.html",
+				
+				"content_html": "<p>Gerbera #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Gerbera #dailyphotography\n\n<img src=\"uploads/2023/ab6134340f.jpg\" width=\"450\" height=\"600\" alt=\"Bright yellow Gerbera flowers with a orange and brown tufted rosettes\">\n",
+				"date_published": "2023-12-30T10:57:07+11:00",
+				"url": "https://micro.duncanhart.com/2023/12/30/gerbera-dailyphotography.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2023/12/26/nymphaea-alba-european.html",
 				
 				"content_html": "<p>Nymphaea alba, European white water lily. #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
@@ -26,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2023/12/18/gumnuts-on-a.html",
 				
 				"content_html": "<p>Gumnuts on a Eucalyptus #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Gumnuts on a Eucalyptus #dailyphotography\n\n<img src=\"uploads/2023/c820427e7e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Gumnuts on a Eucalyptus #dailyphotography\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/c820427e7e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-18T20:04:24+11:00",
 				"url": "https://micro.duncanhart.com/2023/12/18/gumnuts-on-a.html"
 			},
@@ -34,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2023/12/17/castlemaine-victoria-australia.html",
 				
 				"content_html": "<p>Castlemaine, Victoria, Australia. #dailyphotography #cycling #safecycling</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Castlemaine, Victoria, Australia. #dailyphotography #cycling #safecycling\n\n<img src=\"uploads/2023/5321891e20.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Castlemaine, Victoria, Australia. #dailyphotography #cycling #safecycling\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/5321891e20.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-12-17T15:59:00+11:00",
 				"url": "https://micro.duncanhart.com/2023/12/17/castlemaine-victoria-australia.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://duncanhart.micro.blog/2023/12/15/good-fast-cheap.html",
 				
 				"content_html": "<p>Good - Fast - Cheap #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Good - Fast - Cheap #dailyphotography\n\n<img src=\"uploads/2023/614f7eb7e0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Good - Fast - Cheap #dailyphotography\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/614f7eb7e0.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-15T09:24:49+11:00",
 				"url": "https://micro.duncanhart.com/2023/12/15/good-fast-cheap.html"
 			},
