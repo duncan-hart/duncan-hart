@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/01/06/dwarf-alberta-spruce.html",
+				
+				"content_html": "<p>Dwarf Alberta Spruce (Picea glauca albertiana) #bonsai #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dwarf Alberta Spruce (Picea glauca albertiana) #bonsai #dailyphotography\n\n<img src=\"uploads/2024/0caa11c630.jpg\" width=\"450\" height=\"600\" alt=\"A very healthy looking Dwarf Alberta Spruce bonsai tree carefully potted in a blue glazed pot. \">\n",
+				"date_published": "2024-01-06T15:19:36+11:00",
+				"url": "https://micro.duncanhart.com/2024/01/06/dwarf-alberta-spruce.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/01/04/dailyphotography.html",
+				
+				"content_html": "<p>#dailyphotography</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "#dailyphotography\n\n<img src=\"uploads/2024/cf65b16399.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-01-04T18:42:06+11:00",
+				"url": "https://micro.duncanhart.com/2024/01/04/dailyphotography.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/01/01/yarra-river-trail.html",
 				
 				"content_html": "<p>Yarra river trail, Melbourne, Victoria. #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2023/12/26/nymphaea-alba-european.html",
 				
 				"content_html": "<p>Nymphaea alba, European white water lily. #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nymphaea alba, European white water lily. #dailyphotography\n\n<img src=\"uploads/2023/63d0e2f30e.jpg\" width=\"450\" height=\"600\" alt=\"A European white water lily with white petals and a yellow stamens and is speckled with water droplets.\">\n",
+				"content_text": "Nymphaea alba, European white water lily. #dailyphotography\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/63d0e2f30e.jpg\" width=\"450\" height=\"600\" alt=\"A European white water lily with white petals and a yellow stamens and is speckled with water droplets.\">\n",
 				"date_published": "2023-12-26T13:20:03+11:00",
 				"url": "https://micro.duncanhart.com/2023/12/26/nymphaea-alba-european.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2023/12/20/humanity-not-machinery.html",
 				
 				"content_html": "<p>Humanity not machinery #dailyphotography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Humanity not machinery #dailyphotography\n\n<img src=\"uploads/2023/2a1424889b.jpg\" width=\"600\" height=\"450\" alt=\"A hand painted sign on the side of a truck that reads “No digital ID. We are not livestock.”\">\n",
+				"content_text": "Humanity not machinery #dailyphotography\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2023/2a1424889b.jpg\" width=\"600\" height=\"450\" alt=\"A hand painted sign on the side of a truck that reads “No digital ID. We are not livestock.”\">\n",
 				"date_published": "2023-12-20T11:04:42+11:00",
 				"url": "https://micro.duncanhart.com/2023/12/20/humanity-not-machinery.html"
 			},
