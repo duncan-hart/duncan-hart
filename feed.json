@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/03/08/fun-fairy-at.html",
+				
+				"content_html": "<p>&lsquo;Fun Fairy at Daisy Nook&rsquo; (1953) by <a href=\"https://en.wikipedia.org/wiki/L._S._Lowry\">L.S. Lowry</a> #art #dailylowry</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "'Fun Fairy at Daisy Nook' (1953) by [L.S. Lowry](https://en.wikipedia.org/wiki/L._S._Lowry) #art #dailylowry\n\n\n<img src=\"uploads/2024/be0f7146d4.png\" width=\"600\" height=\"465\" alt=\"'Fun Fairy at Daisy Nook' (1953) by [L.S. Lowry]\">\n",
+				"date_published": "2024-03-08T11:10:41+11:00",
+				"url": "https://micro.duncanhart.com/2024/03/08/fun-fairy-at.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/03/04/jaguar-mark-litre.html",
+				
+				"content_html": "<p>Jaguar Mark 2 3.4 litre #dailphotography</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Jaguar Mark 2 3.4 litre #dailphotography\n\n<img src=\"uploads/2024/edcc570a53.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/2d5616120a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-03-04T12:54:35+11:00",
+				"url": "https://micro.duncanhart.com/2024/03/04/jaguar-mark-litre.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/02/29/flowers-in-a.html",
 				
 				"content_html": "<p>&lsquo;Flowers in a Window&rsquo; (1956) by <a href=\"https://en.wikipedia.org/wiki/L._S._Lowry\">L.S. Lowry</a> #art #dailylowry</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2024/02/26/a-football-match.html",
 				
 				"content_html": "<p>&lsquo;A football match&rsquo; (1960) by <a href=\"https://en.wikipedia.org/wiki/L._S._Lowry\">L.S. Lowry</a> #art</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "'A football match' (1960) by [L.S. Lowry](https://en.wikipedia.org/wiki/L._S._Lowry) #art\n\n<img src=\"uploads/2024/bc4575e54e.png\" width=\"600\" height=\"503\" alt=\"'A football match' (1960) by [L.S. Lowry](https://en.wikipedia.org/wiki/L._S._Lowry)\">\n",
+				"content_text": "'A football match' (1960) by [L.S. Lowry](https://en.wikipedia.org/wiki/L._S._Lowry) #art\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/bc4575e54e.png\" width=\"600\" height=\"503\" alt=\"'A football match' (1960) by [L.S. Lowry](https://en.wikipedia.org/wiki/L._S._Lowry)\">\n",
 				"date_published": "2024-02-26T09:35:55+11:00",
 				"url": "https://micro.duncanhart.com/2024/02/26/a-football-match.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2024/02/24/i-like-to.html",
 				
 				"content_html": "<p>I like to party! And when I say ‘party’ I mean #hamradio</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I like to party! And when I say ‘party’ I mean #hamradio\n\n<img src=\"uploads/2024/80a0e5b41c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I like to party! And when I say ‘party’ I mean #hamradio\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/80a0e5b41c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-02-24T15:01:29+11:00",
 				"url": "https://micro.duncanhart.com/2024/02/24/i-like-to.html"
 			},
