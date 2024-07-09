@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/07/10/the-purpose-of.html",
+				
+				"content_html": "<p>&ldquo;The purpose of government is to enable the people of a nation to live in safety and happiness. Government exists for the interests of the governed, not for the governors.&rdquo; - Thomas Jefferson</p>\n",
+				"content_text": "\"The purpose of government is to enable the people of a nation to live in safety and happiness. Government exists for the interests of the governed, not for the governors.\" - Thomas Jefferson\n",
+				"date_published": "2024-07-10T00:38:18+10:00",
+				"url": "https://micro.duncanhart.com/2024/07/10/the-purpose-of.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/06/30/big-ideas-come.html",
+				"title": "Big ideas come from the unconscious.",
+				"content_html": "<p>“I doubt if more than one campaign in a hundred contains a big idea. I am supposed to be one of the more fertile inventors of big ideas, but in my long career as a copywriter I have not had more than 20, if that. Big ideas come from the unconscious. This is true in art, in science and in advertising. But your unconscious has to be well informed, or your idea will be irrelevant. Stuff your conscious mind with information, then unhook your rational thought process. You can help this process by going for a long walk, or taking a hot bath, or drinking half a pint of claret. Suddenly, if the telephone line from your unconscious is open, a big idea wells up within you.”</p>\n<p>— David Ogilvy</p>\n",
+				"content_text": "“I doubt if more than one campaign in a hundred contains a big idea. I am supposed to be one of the more fertile inventors of big ideas, but in my long career as a copywriter I have not had more than 20, if that. Big ideas come from the unconscious. This is true in art, in science and in advertising. But your unconscious has to be well informed, or your idea will be irrelevant. Stuff your conscious mind with information, then unhook your rational thought process. You can help this process by going for a long walk, or taking a hot bath, or drinking half a pint of claret. Suddenly, if the telephone line from your unconscious is open, a big idea wells up within you.”\r\n\r\n— David Ogilvy \n",
+				"date_published": "2024-06-30T21:34:02+10:00",
+				"url": "https://micro.duncanhart.com/2024/06/30/big-ideas-come.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/06/29/the-author-is.html",
 				"title": "“The author is what he is.”",
 				"content_html": "<p>“A work of art is the unique result of a unique temperament. Its beauty comes from the fact that the author is what he is. It has nothing to do with the fact that other people want what they want. Indeed, the moment that an artist takes notice of what other people want, and tries to supply the demand, he ceases to be an artist, and becomes a dull or an amusing craftsman, an honest or a dishonest tradesman. He has no further claim to be considered as an artist.”</p>\n<p>​— Oscar Wilde​​</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2024/06/12/home-from-the.html",
 				
 				"content_html": "<p>&lsquo;Home from the pub&rsquo; (1944) by L.S. Lowry. #art #dailylowry</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "'Home from the pub' (1944) by L.S. Lowry. #art #dailylowry\n\n<img src=\"uploads/2024/home-from-the-pub-1944.png\" width=\"600\" height=\"465\" alt=\"'Home from the pub' (1944) by L.S. Lowry. #art #dailylowry\">\n",
+				"content_text": "'Home from the pub' (1944) by L.S. Lowry. #art #dailylowry\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/home-from-the-pub-1944.png\" width=\"600\" height=\"465\" alt=\"'Home from the pub' (1944) by L.S. Lowry. #art #dailylowry\">\n",
 				"date_published": "2024-06-12T13:12:17+10:00",
 				"url": "https://micro.duncanhart.com/2024/06/12/home-from-the.html"
 			},
