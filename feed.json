@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/07/19/aeschylus-in-perrhaibides.html",
+				
+				"content_html": "<p>Aeschylus in Perrhaibides: ‘Where are my many promised gifts and spoils of war? Where are my gold and silver cups?’</p>\n",
+				"content_text": "Aeschylus in Perrhaibides: ‘Where are my many promised gifts and spoils of war? Where are my gold and silver cups?’\n",
+				"date_published": "2024-07-19T18:10:26+10:00",
+				"url": "https://micro.duncanhart.com/2024/07/19/aeschylus-in-perrhaibides.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/07/14/blood-grows-hot.html",
+				"title": "“Blood grows hot, and blood is spilled”",
+				"content_html": "<p>“Blood grows hot, and blood is spilled. Thought is forced from old channels into confusion. Deception breeds and thrives. Confidence dies, and universal suspicion reigns. Each man feels an impulse to kill his neighbor, lest he be first killed by him. Revenge and retaliation follow. And all this … may be among honest men only. But this is not all. Every foul bird comes abroad, and every dirty reptile rises up. These add crime to confusion.”</p>\n<p>— Abraham Lincoln, letter to the Missouri abolitionist Charles D. Drake, 1863</p>\n",
+				"content_text": "“Blood grows hot, and blood is spilled. Thought is forced from old channels into confusion. Deception breeds and thrives. Confidence dies, and universal suspicion reigns. Each man feels an impulse to kill his neighbor, lest he be first killed by him. Revenge and retaliation follow. And all this … may be among honest men only. But this is not all. Every foul bird comes abroad, and every dirty reptile rises up. These add crime to confusion.”\n\n— Abraham Lincoln, letter to the Missouri abolitionist Charles D. Drake, 1863\n",
+				"date_published": "2024-07-14T22:31:27+10:00",
+				"url": "https://micro.duncanhart.com/2024/07/14/blood-grows-hot.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/07/10/the-purpose-of.html",
 				
 				"content_html": "<p>&ldquo;The purpose of government is to enable the people of a nation to live in safety and happiness. Government exists for the interests of the governed, not for the governors.&rdquo; - Thomas Jefferson</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2024/06/14/may-day-by.html",
 				
 				"content_html": "<p>‘May Day’ (1935) by L.S. Lowry. #art #dailylowry</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "‘May Day’ (1935) by L.S. Lowry. #art #dailylowry\n\n<img src=\"uploads/2024/may-day-1935.png\" width=\"486\" height=\"600\" alt=\"‘May Day’ (1935) by L.S. Lowry. #art #dailylowry\">\n",
+				"content_text": "‘May Day’ (1935) by L.S. Lowry. #art #dailylowry\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/may-day-1935.png\" width=\"486\" height=\"600\" alt=\"‘May Day’ (1935) by L.S. Lowry. #art #dailylowry\">\n",
 				"date_published": "2024-06-14T15:09:48+10:00",
 				"url": "https://micro.duncanhart.com/2024/06/14/may-day-by.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2024/06/13/lady-crossing-a.html",
 				
 				"content_html": "<p>&lsquo;Lady crossing a bridge&rsquo; (1961) by L.S. Lowry. #art #dailylowry</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "'Lady crossing a bridge' (1961) by L.S. Lowry. #art #dailylowry\n\n<img src=\"uploads/2024/lady-crossing-a-bridge-1961.png\" width=\"414\" height=\"600\" alt=\"'Lady crossing a bridge' (1961) by L.S. Lowry. #art #dailylowry\">\n",
+				"content_text": "'Lady crossing a bridge' (1961) by L.S. Lowry. #art #dailylowry\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/lady-crossing-a-bridge-1961.png\" width=\"414\" height=\"600\" alt=\"'Lady crossing a bridge' (1961) by L.S. Lowry. #art #dailylowry\">\n",
 				"date_published": "2024-06-13T21:00:46+10:00",
 				"url": "https://micro.duncanhart.com/2024/06/13/lady-crossing-a.html"
 			},
