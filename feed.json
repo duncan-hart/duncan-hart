@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/08/27/melbourne-victoria-australia.html",
+				
+				"content_html": "<p>Melbourne, Victoria, Australia. Spring 2024.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Melbourne, Victoria, Australia. Spring 2024.\n\n<img src=\"uploads/2024/d962080372.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-08-27T15:02:34+10:00",
+				"url": "https://micro.duncanhart.com/2024/08/27/melbourne-victoria-australia.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/08/25/i-have-just.html",
+				
+				"content_html": "<p>I have just learnt that avocado oil has an exceptionally high smoke point of 271oC / 520oF. I can’t wait to try it with my next stir fry dinner.</p>\n",
+				"content_text": "I have just learnt that avocado oil has an exceptionally high smoke point of 271oC / 520oF. I can’t wait to try it with my next stir fry dinner.\n",
+				"date_published": "2024-08-25T07:40:29+10:00",
+				"url": "https://micro.duncanhart.com/2024/08/25/i-have-just.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/08/22/in-every-crisis.html",
 				
 				"content_html": "<p>In every crisis there’s always someone looking to make money.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2024/07/28/eriocapitella-hupehensis-japanese.html",
 				
 				"content_html": "<p>Eriocapitella hupehensis, ‘Japanese wind flower’.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Eriocapitella hupehensis, ‘Japanese wind flower’.\n\n<img src=\"uploads/2024/21aa128e8e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Eriocapitella hupehensis, ‘Japanese wind flower’.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/21aa128e8e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-28T18:54:03+10:00",
 				"url": "https://micro.duncanhart.com/2024/07/28/eriocapitella-hupehensis-japanese.html"
 			},
@@ -42,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2024/07/28/malvern-hills-worcestershire.html",
 				
 				"content_html": "<p>Malvern Hills, Worcestershire. Looking east and down towards Malvern.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Malvern Hills, Worcestershire. Looking east and down towards Malvern.\n\n<img src=\"uploads/2024/fc18040d5b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "Malvern Hills, Worcestershire. Looking east and down towards Malvern.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/fc18040d5b.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2024-07-28T17:40:54+10:00",
 				"url": "https://micro.duncanhart.com/2024/07/28/malvern-hills-worcestershire.html"
 			},
