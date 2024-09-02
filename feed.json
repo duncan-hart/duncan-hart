@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/09/02/absolutely-definitely-made.html",
+				
+				"content_html": "<p>Absolutely, definitely made of polyester.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Absolutely, definitely made of polyester.\n\n<img src=\"uploads/2024/acc628d5ac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-02T11:33:14+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/02/absolutely-definitely-made.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/08/27/melbourne-victoria-australia.html",
 				
 				"content_html": "<p>Melbourne, Victoria, Australia. Spring 2024.</p>\n<!-- raw HTML omitted -->\n",
@@ -42,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2024/07/30/avenue-of-trees.html",
 				
 				"content_html": "<p>Avenue of trees, South of France.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Avenue of trees, South of France.\n\n<img src=\"uploads/2024/30250f451e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Avenue of trees, South of France.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/30250f451e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-07-30T23:08:18+10:00",
 				"url": "https://micro.duncanhart.com/2024/07/30/avenue-of-trees.html"
 			},
