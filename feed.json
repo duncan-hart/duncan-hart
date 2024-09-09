@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/09/09/towards-barwon-heads.html",
+				
+				"content_html": "<p>Towards Barwon Heads, Victoria 3227, Australia. William Buckley Bridge in the background.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Towards Barwon Heads, Victoria 3227, Australia. William Buckley Bridge in the background.\r\n\n\n<img src=\"uploads/2024/towards-barwon-heads-8-sept-2024.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-09-09T10:13:14+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/09/towards-barwon-heads.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/04/what-counts-as.html",
+				
+				"content_html": "<p>“What counts as a crisis is the expectation of loss of control; in other words, cybernetic breakdown in an institution.”\nStafford Beer, Brain of the Firm (2nd ed.), 1981.</p>\n",
+				"content_text": "“What counts as a crisis is the expectation of loss of control; in other words, cybernetic breakdown in an institution.”\nStafford Beer, Brain of the Firm (2nd ed.), 1981.\n",
+				"date_published": "2024-09-04T15:56:59+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/04/what-counts-as.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/03/should-we-all.html",
+				
+				"content_html": "<p>“Should we all stand by complaining, and wait for someone malevolent to take it over and enslave us? An electronic mafia lurks around that corner.”\nStafford Beer, Designing Freedom, 1974.</p>\n",
+				"content_text": "“Should we all stand by complaining, and wait for someone malevolent to take it over and enslave us? An electronic mafia lurks around that corner.”\nStafford Beer, Designing Freedom, 1974.\n",
+				"date_published": "2024-09-03T10:50:29+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/03/should-we-all.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/09/02/absolutely-definitely-made.html",
 				
 				"content_html": "<p>Absolutely, definitely made of polyester.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2024/08/22/in-every-crisis.html",
 				
 				"content_html": "<p>In every crisis there’s always someone looking to make money.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In every crisis there’s always someone looking to make money. \n\n<img src=\"uploads/2024/b704ca90fe.jpg\" width=\"600\" height=\"450\" alt=\"A sign in a pharmacy window that reads “ MONKEYPOX VACCINE AVAILABLE HERE.”\">\n",
+				"content_text": "In every crisis there’s always someone looking to make money. \n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/b704ca90fe.jpg\" width=\"600\" height=\"450\" alt=\"A sign in a pharmacy window that reads “ MONKEYPOX VACCINE AVAILABLE HERE.”\">\n",
 				"date_published": "2024-08-22T11:54:21+10:00",
 				"url": "https://micro.duncanhart.com/2024/08/22/in-every-crisis.html"
 			},
