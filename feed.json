@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/09/16/i-learned-very.html",
+				
+				"content_html": "<p>“I learned very early the difference between knowing the name of something and knowing something.”\nRichard Feynman.</p>\n",
+				"content_text": "“I learned very early the difference between knowing the name of something and knowing something.”\nRichard Feynman.\n",
+				"date_published": "2024-09-16T07:44:32+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/16/i-learned-very.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/10/the-first-of.html",
+				
+				"content_html": "<p>The first of the wisteria.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The first of the wisteria.\n\n<img src=\"uploads/2024/8643aa4e7e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-10T10:33:15+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/10/the-first-of.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/09/looking-west-towards.html",
+				
+				"content_html": "<p>Looking west towards Thirteenth Beach from Barwon Heads Park.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Looking west towards Thirteenth Beach from Barwon Heads Park. \n\n<img src=\"uploads/2024/west-towards-thirteenth-beach-nr-barwon-heads.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-09-09T11:38:25+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/09/looking-west-towards.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/09/09/towards-barwon-heads.html",
 				
 				"content_html": "<p>Towards Barwon Heads, Victoria 3227, Australia. William Buckley Bridge in the background.</p>\n<!-- raw HTML omitted -->\n",
@@ -34,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2024/09/02/absolutely-definitely-made.html",
 				
 				"content_html": "<p>Absolutely, definitely made of polyester.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Absolutely, definitely made of polyester.\n\n<img src=\"uploads/2024/acc628d5ac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Absolutely, definitely made of polyester.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/acc628d5ac.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-02T11:33:14+10:00",
 				"url": "https://micro.duncanhart.com/2024/09/02/absolutely-definitely-made.html"
 			},
@@ -42,7 +66,7 @@
 				"id": "http://duncanhart.micro.blog/2024/08/27/melbourne-victoria-australia.html",
 				
 				"content_html": "<p>Melbourne, Victoria, Australia. Spring 2024.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Melbourne, Victoria, Australia. Spring 2024.\n\n<img src=\"uploads/2024/d962080372.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Melbourne, Victoria, Australia. Spring 2024.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/d962080372.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-08-27T15:02:34+10:00",
 				"url": "https://micro.duncanhart.com/2024/08/27/melbourne-victoria-australia.html"
 			},
