@@ -1,11 +1,43 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Duncan Hart",
+	"title": "Duncan Hart's micro blog",
 	"icon": "https://micro.blog/duncanhart/avatar.jpg",
 	"home_page_url": "https://micro.duncanhart.com/",
 	"feed_url": "https://micro.duncanhart.com/feed.json",
 	"items": [
 		
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/21/life-is-not.html",
+				
+				"content_html": "<p>_ ”Life is not a matter of holding good cards, but of playing a poor hand well.” _   Robert Louis Stevenson</p>\n",
+				"content_text": "_ ”Life is not a matter of holding good cards, but of playing a poor hand well.” _   Robert Louis Stevenson\n",
+				"date_published": "2024-09-21T15:48:09+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/21/life-is-not.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/20/before-you-react.html",
+				
+				"content_html": "<p><em>&ldquo;Before you react, think. Before you spend, earn. Before you criticize, wait. Before you quit, try.&rdquo;</em>   Ernest Hemingway.</p>\n",
+				"content_text": "_\"Before you react, think. Before you spend, earn. Before you criticize, wait. Before you quit, try.\"_   Ernest Hemingway.\n",
+				"date_published": "2024-09-20T12:30:25+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/20/before-you-react.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/19/im-smart-enough.html",
+				
+				"content_html": "<p><em>”I’m smart enough to know I’m dumb.”</em>   Richard Feynman</p>\n",
+				"content_text": "_”I’m smart enough to know I’m dumb.”_   Richard Feynman\n",
+				"date_published": "2024-09-19T18:25:12+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/19/im-smart-enough.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/18/thank-goodness-for.html",
+				"title": "Thank goodness for RSS.",
+				"content_html": "<p>Recently the internet has become an even bigger dumpster fire of a mess burning away. I’m doing my best to ignore all the background screeching of social media, advertising addled websites and the constant menace of being watched by surveillance capitalism. Is it any wonder people are so distracted?</p>\n<p>For my own sanity these are exactly the kinds of situations I deliberately avoid. And a big part of my approach has been adopting #RSS feeds to subscribe to folk who are interesting and have something interesting to say. I subscribe to blogs as well as posts from specific people on social media, I get to read what they’re up to without any intermediation or unnecessary distraction.</p>\n<p>I find #RSS is the best way to consume content online. It always has been, and it still is for me.</p>\n<p>Not gated, not filtered, no ads, just want you want delivered direct to you fast when there’s something new. It’s hard to beat.</p>\n",
+				"content_text": "Recently the internet has become an even bigger dumpster fire of a mess burning away. I’m doing my best to ignore all the background screeching of social media, advertising addled websites and the constant menace of being watched by surveillance capitalism. Is it any wonder people are so distracted?\r\n\r\nFor my own sanity these are exactly the kinds of situations I deliberately avoid. And a big part of my approach has been adopting #RSS feeds to subscribe to folk who are interesting and have something interesting to say. I subscribe to blogs as well as posts from specific people on social media, I get to read what they’re up to without any intermediation or unnecessary distraction. \r\n\r\nI find #RSS is the best way to consume content online. It always has been, and it still is for me.\r\n\r\nNot gated, not filtered, no ads, just want you want delivered direct to you fast when there’s something new. It’s hard to beat.\n",
+				"date_published": "2024-09-18T14:48:44+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/18/thank-goodness-for.html"
+			},
 			{
 				"id": "http://duncanhart.micro.blog/2024/09/16/i-learned-very.html",
 				
@@ -18,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2024/09/10/the-first-of.html",
 				
 				"content_html": "<p>The first of the wisteria.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The first of the wisteria.\n\n<img src=\"uploads/2024/8643aa4e7e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The first of the wisteria.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/8643aa4e7e.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-10T10:33:15+10:00",
 				"url": "https://micro.duncanhart.com/2024/09/10/the-first-of.html"
 			},
@@ -26,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2024/09/09/looking-west-towards.html",
 				
 				"content_html": "<p>Looking west towards Thirteenth Beach from Barwon Heads Park.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Looking west towards Thirteenth Beach from Barwon Heads Park. \n\n<img src=\"uploads/2024/west-towards-thirteenth-beach-nr-barwon-heads.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Looking west towards Thirteenth Beach from Barwon Heads Park. \n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/west-towards-thirteenth-beach-nr-barwon-heads.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-09T11:38:25+10:00",
 				"url": "https://micro.duncanhart.com/2024/09/09/looking-west-towards.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://duncanhart.micro.blog/2024/09/09/towards-barwon-heads.html",
 				
 				"content_html": "<p>Towards Barwon Heads, Victoria 3227, Australia. William Buckley Bridge in the background.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Towards Barwon Heads, Victoria 3227, Australia. William Buckley Bridge in the background.\r\n\n\n<img src=\"uploads/2024/towards-barwon-heads-8-sept-2024.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Towards Barwon Heads, Victoria 3227, Australia. William Buckley Bridge in the background.\r\n\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/towards-barwon-heads-8-sept-2024.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-09-09T10:13:14+10:00",
 				"url": "https://micro.duncanhart.com/2024/09/09/towards-barwon-heads.html"
 			},
