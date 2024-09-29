@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/09/29/a-friendly-buddha.html",
+				
+				"content_html": "<p>A friendly Buddha.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A friendly Buddha.\n\n<img src=\"uploads/2024/06e4f66242.jpg\" width=\"450\" height=\"600\" alt=\"A bronze Buddha statue in a sitting position with a green palm plant behind. \">\n",
+				"date_published": "2024-09-29T12:58:08+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/29/a-friendly-buddha.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/26/local-street-art.html",
+				
+				"content_html": "<p>Local street art South Yarra, Victoria.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Local street art South Yarra, Victoria.\n\n<img src=\"uploads/2024/1bd92bbea8.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
+				"date_published": "2024-09-26T15:03:23+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/26/local-street-art.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/26/words-are-windows.html",
+				"title": "Words Are Windows (or They’re Walls) by Ruth Bebermeyer.",
+				"content_html": "<p>I feel so sentenced by your words,\nI feel so judged and sent away,\nBefore I go I’ve got to know,\nIs that what you mean to say?\nBefore I rise to my defense,\nBefore I speak in hurt or fear,\nBefore I build that wall of words,\nTell me, did I really hear?\nWords are windows, or they’re walls,</p>\n<p>They sentence us, or set us free.\nWhen I speak and when I hear,\nLet the love light shine through me.\nThere are things I need to say,\nThings that mean so much to me,\nIf my words don’t make me clear,\nWill you help me to be free?\nIf I seemed to put you down,\nIf you felt I didn’t care,\nTry to listen through my words,\nTo the feelings that we share.</p>\n",
+				"content_text": "I feel so sentenced by your words,\r\nI feel so judged and sent away,\r\nBefore I go I’ve got to know,\r\nIs that what you mean to say?\r\nBefore I rise to my defense,\r\nBefore I speak in hurt or fear,\r\nBefore I build that wall of words,\r\nTell me, did I really hear?\r\nWords are windows, or they’re walls,\r\n\r\nThey sentence us, or set us free.\r\nWhen I speak and when I hear,\r\nLet the love light shine through me.\r\nThere are things I need to say,\r\nThings that mean so much to me,\r\nIf my words don’t make me clear,\r\nWill you help me to be free?\r\nIf I seemed to put you down,\r\nIf you felt I didn’t care,\r\nTry to listen through my words,\r\nTo the feelings that we share.\n",
+				"date_published": "2024-09-26T14:09:08+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/26/words-are-windows.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/23/fuckadoodledo-how-can.html",
+				
+				"content_html": "<p>Fuck-a-doodle-do! How can it be that the algorithm even imagines that I might need this?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fuck-a-doodle-do! How can it be that the algorithm even imagines that I might need this?\n\n<img src=\"uploads/2024/4722fb0df8.jpg\" width=\"308\" height=\"527\" alt=\"A chicken wearing a chest harness clipped to a dog leash.&10;\">\n",
+				"date_published": "2024-09-23T21:03:00+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/23/fuckadoodledo-how-can.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/23/spring-is-here.html",
+				
+				"content_html": "<p>Spring is here and brings bright colours.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spring is here and brings bright colours.\n\n<img src=\"uploads/2024/092a320395.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-23T08:14:00+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/23/spring-is-here.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/09/22/whoever-has-learned.html",
+				
+				"content_html": "<p><em>&ldquo;Whoever has learned to be anxious in the right way, has learned the ultimate.”</em> Søren Kierkegaard</p>\n",
+				"content_text": "_\"Whoever has learned to be anxious in the right way, has learned the ultimate.”_ Søren Kierkegaard\n",
+				"date_published": "2024-09-22T13:37:12+10:00",
+				"url": "https://micro.duncanhart.com/2024/09/22/whoever-has-learned.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/09/21/life-is-not.html",
 				
 				"content_html": "<p>_ ”Life is not a matter of holding good cards, but of playing a poor hand well.” _   Robert Louis Stevenson</p>\n",
