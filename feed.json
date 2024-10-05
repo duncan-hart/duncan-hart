@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/10/05/blessed-are-the.html",
+				
+				"content_html": "<p>Blessed are the pets of Melbourne.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Blessed are the pets of Melbourne.\n\n<img src=\"uploads/2024/07e34caacb.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-05T20:29:21+10:00",
+				"url": "https://micro.duncanhart.com/2024/10/05/blessed-are-the.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/10/04/any-fool-can.html",
+				
+				"content_html": "<p><em>“Any fool can know. The point is to understand.”</em> &hellip;. Albert Einstein #quote</p>\n",
+				"content_text": "_“Any fool can know. The point is to understand.”_ .... Albert Einstein #quote\r\n\r\n\r\n",
+				"date_published": "2024-10-04T11:22:47+10:00",
+				"url": "https://micro.duncanhart.com/2024/10/04/any-fool-can.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/10/04/opening-the-box.html",
+				"title": "Opening the box - Systems thinking for transformative conversations.",
+				"content_html": "<p>I’m so looking forward to reading this.</p>\n<p>From the book: “Opening the box” invites you to delve into the realms of systems thinking by exploring  four layers of ‘systems’: parts and wholes, nascent development, coherence, and metamorphosis.</p>\n<p><a href=\"https://www.systemspractice.org/en/resources/opening-box-systems-thinking-transformative-conversations\">www.systemspractice.org/en/resour&hellip;</a></p>\n<p>#openingthebox</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m so looking forward to reading this. \n\nFrom the book: “Opening the box” invites you to delve into the realms of systems thinking by exploring  four layers of ‘systems’: parts and wholes, nascent development, coherence, and metamorphosis. \n\n\n[www.systemspractice.org/en/resour...](https://www.systemspractice.org/en/resources/opening-box-systems-thinking-transformative-conversations)\n\n#openingthebox \n\n<img src=\"uploads/2024/0052935fd6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-04T09:34:44+10:00",
+				"url": "https://micro.duncanhart.com/2024/10/04/opening-the-box.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/10/03/portal-to-the.html",
+				
+				"content_html": "<p>Portal to the new world.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Portal to the new world.\n\n\n<img src=\"uploads/2024/bd5d61389f.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-03T08:47:27+10:00",
+				"url": "https://micro.duncanhart.com/2024/10/03/portal-to-the.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/09/29/a-friendly-buddha.html",
 				
 				"content_html": "<p>A friendly Buddha.</p>\n<!-- raw HTML omitted -->\n",
@@ -18,7 +50,7 @@
 				"id": "http://duncanhart.micro.blog/2024/09/26/local-street-art.html",
 				
 				"content_html": "<p>Local street art South Yarra, Victoria.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Local street art South Yarra, Victoria.\n\n<img src=\"uploads/2024/1bd92bbea8.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
+				"content_text": "Local street art South Yarra, Victoria.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/1bd92bbea8.jpg\" width=\"600\" height=\"398\" alt=\"\">\n",
 				"date_published": "2024-09-26T15:03:23+10:00",
 				"url": "https://micro.duncanhart.com/2024/09/26/local-street-art.html"
 			},
@@ -34,7 +66,7 @@
 				"id": "http://duncanhart.micro.blog/2024/09/23/fuckadoodledo-how-can.html",
 				
 				"content_html": "<p>Fuck-a-doodle-do! How can it be that the algorithm even imagines that I might need this?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fuck-a-doodle-do! How can it be that the algorithm even imagines that I might need this?\n\n<img src=\"uploads/2024/4722fb0df8.jpg\" width=\"308\" height=\"527\" alt=\"A chicken wearing a chest harness clipped to a dog leash.&10;\">\n",
+				"content_text": "Fuck-a-doodle-do! How can it be that the algorithm even imagines that I might need this?\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/4722fb0df8.jpg\" width=\"308\" height=\"527\" alt=\"A chicken wearing a chest harness clipped to a dog leash.&10;\">\n",
 				"date_published": "2024-09-23T21:03:00+10:00",
 				"url": "https://micro.duncanhart.com/2024/09/23/fuckadoodledo-how-can.html"
 			},
@@ -42,7 +74,7 @@
 				"id": "http://duncanhart.micro.blog/2024/09/23/spring-is-here.html",
 				
 				"content_html": "<p>Spring is here and brings bright colours.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring is here and brings bright colours.\n\n<img src=\"uploads/2024/092a320395.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Spring is here and brings bright colours.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/092a320395.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-09-23T08:14:00+10:00",
 				"url": "https://micro.duncanhart.com/2024/09/23/spring-is-here.html"
 			},
