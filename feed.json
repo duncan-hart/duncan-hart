@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/10/17/cory-doctorow-hits.html",
+				
+				"content_html": "<p>Cory Doctorow hits another #RSS home run.</p>\n<p><a href=\"https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise\">pluralistic.net/2024/10/1&hellip;</a></p>\n",
+				"content_text": "Cory Doctorow hits another #RSS home run.\r\n\r\n[pluralistic.net/2024/10/1...](https://pluralistic.net/2024/10/16/keep-it-really-simple-stupid/#read-receipts-are-you-kidding-me-seriously-fuck-that-noise)\n",
+				"date_published": "2024-10-17T11:38:46+11:00",
+				"url": "https://micro.duncanhart.com/2024/10/17/cory-doctorow-hits.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/10/11/waratah.html",
 				
 				"content_html": "<p>Waratah</p>\n<!-- raw HTML omitted -->\n",
