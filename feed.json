@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/12/05/one-antifeature-i.html",
+				
+				"content_html": "<p>One anti-feature I love about <a href=\"https://micro.blog\">Micro.blog</a> is that there’s no ‘like’ button. To me this feels like a good design choice.</p>\n",
+				"content_text": "One anti-feature I love about [Micro.blog](https://micro.blog) is that there’s no ‘like’ button. To me this feels like a good design choice.\n",
+				"date_published": "2024-12-05T10:52:29+11:00",
+				"url": "https://micro.duncanhart.com/2024/12/05/one-antifeature-i.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/12/03/dahlia.html",
+				
+				"content_html": "<p>Dahlia.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dahlia.\n\n<img src=\"uploads/2024/5ee40f62fa.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-03T08:41:02+11:00",
+				"url": "https://micro.duncanhart.com/2024/12/03/dahlia.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/12/02/stenocarpus-sinuatus-firewheel.html",
+				
+				"content_html": "<p>Stenocarpus sinuatus, ‘Firewheel’.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Stenocarpus sinuatus, ‘Firewheel’.\n\n<img src=\"uploads/2024/47eab59903.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-12-02T19:22:02+11:00",
+				"url": "https://micro.duncanhart.com/2024/12/02/stenocarpus-sinuatus-firewheel.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/12/01/todays-mood-music.html",
+				
+				"content_html": "<p>Today’s mood music: <a href=\"https://youtu.be/qORYO0atB6g?si=8xldTNdktHTQy-hj\">Beastie Boys - Intergalatic</a></p>\n",
+				"content_text": "Today’s mood music: [Beastie Boys - Intergalatic](https://youtu.be/qORYO0atB6g?si=8xldTNdktHTQy-hj)\n",
+				"date_published": "2024-12-01T16:11:21+11:00",
+				"url": "https://micro.duncanhart.com/2024/12/01/todays-mood-music.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/11/30/first-bloom-on.html",
+				
+				"content_html": "<p>First bloom on the Dwarf Alberta Spruce #bonsai</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "First bloom on the Dwarf Alberta Spruce #bonsai\n\n<img src=\"uploads/2024/0153916263.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-30T10:34:00+11:00",
+				"url": "https://micro.duncanhart.com/2024/11/30/first-bloom-on.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/11/28/rd-edition-of.html",
+				
+				"content_html": "<p>3rd edition of Ross Anderson’s <a href=\"https://www.cl.cam.ac.uk/archive/rja14/book.html\">Security Engineering</a> is now freely available for download <a href=\"https://www.cl.cam.ac.uk/archive/rja14/book.html\">here</a>.</p>\n<p>There are also fifteen teaching videos based on the book for a Security Engineering class at University of Edinburgh available here: (<a href=\"https://www.youtube.com/@securityengineering1350/videos)\">https://www.youtube.com/@securityengineering1350/videos)</a>.</p>\n",
+				"content_text": "3rd edition of Ross Anderson’s [Security Engineering](https://www.cl.cam.ac.uk/archive/rja14/book.html) is now freely available for download [here](https://www.cl.cam.ac.uk/archive/rja14/book.html).\r\n\r\nThere are also fifteen teaching videos based on the book for a Security Engineering class at University of Edinburgh available here: (https://www.youtube.com/@securityengineering1350/videos).\n",
+				"date_published": "2024-11-28T13:54:33+11:00",
+				"url": "https://micro.duncanhart.com/2024/11/28/rd-edition-of.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/11/25/why-i-use.html",
+				"title": "Why I use plain text files.",
+				"content_html": "<p>I don&rsquo;t use plain text files because I hate Big Tech.</p>\n<p>And I most certainly don&rsquo;t use plain text files because I love the format either.</p>\n<p>And I don&rsquo;t prefer plain text files to numerous proprietary formats because plain text works better — in some aspects, it does, in some aspects it doesn&rsquo;t.</p>\n<p>So, why use plain text files? Because it requires less trust than using proprietary formats that requires that you put more trust in Big Tech.</p>\n<p>Plain text files lets me edit my documents from virtually any editor, on any platform and from any era I choose. Want to edit my files from the command line interface on a HPE Cray supercomputer? Been there! Or how about on an Amiga 500? Got the T-shirt!</p>\n<p>Big Tech will fail us in the years to come. Probably often enough, and dramatically enough, that it&rsquo;s worth ensuring that those failures are compartmentalised and the impact as minimal as possible. That&rsquo;s why I use plain text files.</p>\n",
+				"content_text": "I don't use plain text files because I hate Big Tech. \r\n\r\nAnd I most certainly don't use plain text files because I love the format either. \r\n\r\nAnd I don't prefer plain text files to numerous proprietary formats because plain text works better — in some aspects, it does, in some aspects it doesn't.\r\n\r\nSo, why use plain text files? Because it requires less trust than using proprietary formats that requires that you put more trust in Big Tech.\r\n\r\nPlain text files lets me edit my documents from virtually any editor, on any platform and from any era I choose. Want to edit my files from the command line interface on a HPE Cray supercomputer? Been there! Or how about on an Amiga 500? Got the T-shirt!\r\n\r\nBig Tech will fail us in the years to come. Probably often enough, and dramatically enough, that it's worth ensuring that those failures are compartmentalised and the impact as minimal as possible. That's why I use plain text files.\r\n\r\n\r\n \n",
+				"date_published": "2024-11-25T12:08:40+11:00",
+				"url": "https://micro.duncanhart.com/2024/11/25/why-i-use.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/11/25/todays-mood-music.html",
+				
+				"content_html": "<p>Todays mood music: <a href=\"https://youtu.be/-1pMMIe4hb4?si=bDiUnFxxdAwFhKhG\">Kate Bush - Wuthering Heights</a></p>\n",
+				"content_text": "Todays mood music: [Kate Bush - Wuthering Heights](https://youtu.be/-1pMMIe4hb4?si=bDiUnFxxdAwFhKhG)\n",
+				"date_published": "2024-11-25T08:32:20+11:00",
+				"url": "https://micro.duncanhart.com/2024/11/25/todays-mood-music.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/11/22/control-the-manner.html",
+				
+				"content_html": "<p>“Control the manner in which a man interprets his world, and you have gone a long way toward controlling his behaviour.” … Stanley Milgram #quotes.</p>\n",
+				"content_text": "“Control the manner in which a man interprets his world, and you have gone a long way toward controlling his behaviour.” … Stanley Milgram #quotes.\n",
+				"date_published": "2024-11-22T18:02:43+11:00",
+				"url": "https://micro.duncanhart.com/2024/11/22/control-the-manner.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/11/20/chrysanthemum-disbud-flowers.html",
 				
 				"content_html": "<p>Chrysanthemum Disbud. #flowers #photography</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Chrysanthemum Disbud. #flowers #photography\n\n<img src=\"uploads/2024/630e0037ed.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Chrysanthemum Disbud. #flowers #photography\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/630e0037ed.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-20T05:58:39+11:00",
 				"url": "https://micro.duncanhart.com/2024/11/20/chrysanthemum-disbud-flowers.html"
 			},
@@ -26,7 +98,7 @@
 				"id": "http://duncanhart.micro.blog/2024/11/18/wendy-whiteleys-secret.html",
 				
 				"content_html": "<p>Wendy Whiteley&rsquo;s Secret Garden, Lavender Bay, Kirribilli.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wendy Whiteley's Secret Garden, Lavender Bay, Kirribilli.\n\n<img src=\"uploads/2024/wendy-whiteleys-secret-garden.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Wendy Whiteley's Secret Garden, Lavender Bay, Kirribilli.\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/wendy-whiteleys-secret-garden.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-11-18T13:40:01+11:00",
 				"url": "https://micro.duncanhart.com/2024/11/18/wendy-whiteleys-secret.html"
 			},
