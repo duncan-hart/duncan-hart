@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2024/12/14/in-an-era.html",
+				
+				"content_html": "<p>“In an era when “cultivated” people purport to care so much about the origins of the stuff they put into their mouths, will they be as cautious with the stuff they put into their minds? Will they be able to resist the information sausage meat that AI is about to serve them?”</p>\n<p>—<a href=\"https://www.bostonreview.net/forum_response/ais-walking-dog/?utm_source=substack&amp;utm_medium=email\">Brian Eno</a></p>\n",
+				"content_text": "“In an era when “cultivated” people purport to care so much about the origins of the stuff they put into their mouths, will they be as cautious with the stuff they put into their minds? Will they be able to resist the information sausage meat that AI is about to serve them?”\n\n—[Brian Eno](https://www.bostonreview.net/forum_response/ais-walking-dog/?utm_source=substack&utm_medium=email)\n",
+				"date_published": "2024-12-14T11:54:10+11:00",
+				"url": "https://micro.duncanhart.com/2024/12/14/in-an-era.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2024/12/05/a-cybernetic-feedback.html",
+				
+				"content_html": "<p>A cybernetic feedback mechanism IRL.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A cybernetic feedback mechanism IRL.\n\n\n<img src=\"uploads/2024/a3ac8ceb1c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-12-05T11:10:38+11:00",
+				"url": "https://micro.duncanhart.com/2024/12/05/a-cybernetic-feedback.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2024/12/05/one-antifeature-i.html",
 				
 				"content_html": "<p>One anti-feature I love about <a href=\"https://micro.blog\">Micro.blog</a> is that there’s no ‘like’ button. To me this feels like a good design choice.</p>\n",
@@ -42,7 +58,7 @@
 				"id": "http://duncanhart.micro.blog/2024/11/30/first-bloom-on.html",
 				
 				"content_html": "<p>First bloom on the Dwarf Alberta Spruce #bonsai</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "First bloom on the Dwarf Alberta Spruce #bonsai\n\n<img src=\"uploads/2024/0153916263.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "First bloom on the Dwarf Alberta Spruce #bonsai\n\n<img src=\"https://cdn.uploads.micro.blog/41163/2024/0153916263.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-30T10:34:00+11:00",
 				"url": "https://micro.duncanhart.com/2024/11/30/first-bloom-on.html"
 			},
