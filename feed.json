@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2025/01/13/todays-mood-music-bronski-beat.html",
+				
+				"content_html": "<p>Today’s mood music: <a href=\"https://youtu.be/88sARuFu-tc?si=LwiYrS2RedG4apBG\">Bronski Beat, Small Town Boy.</a></p>\n",
+				"content_text": "Today’s mood music: [Bronski Beat, Small Town Boy.](https://youtu.be/88sARuFu-tc?si=LwiYrS2RedG4apBG)\n",
+				"date_published": "2025-01-13T09:09:57+11:00",
+				"url": "https://micro.duncanhart.com/2025/01/13/todays-mood-music-bronski-beat.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2025/01/10/we-live-in-a-society.html",
+				
+				"content_html": "<p>“We live in a society so exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.” …. Carl Sagan.</p>\n",
+				"content_text": "“We live in a society so exquisitely dependent on science and technology, in which hardly anyone knows anything about science and technology.” …. Carl Sagan.\n",
+				"date_published": "2025-01-10T11:46:35+11:00",
+				"url": "https://micro.duncanhart.com/2025/01/10/we-live-in-a-society.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2025/01/09/the-highest-form-of-human.html",
+				
+				"content_html": "<p>“The highest form of human intelligence is the ability to observe without evaluating.” …. Jiddu Krishnamurti.</p>\n",
+				"content_text": "“The highest form of human intelligence is the ability to observe without evaluating.” …. Jiddu Krishnamurti.\n",
+				"date_published": "2025-01-09T11:25:34+11:00",
+				"url": "https://micro.duncanhart.com/2025/01/09/the-highest-form-of-human.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2025/01/08/zuckerberg-is-the-new-groucho.html",
+				
+				"content_html": "<p>Zuckerberg is the new Groucho Marx.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Zuckerberg is the new Groucho Marx.\n\n<img src=\"uploads/2025/f6688c3595.jpg\" width=\"600\" height=\"221\" alt=\"\">\n",
+				"date_published": "2025-01-08T11:28:36+11:00",
+				"url": "https://micro.duncanhart.com/2025/01/08/zuckerberg-is-the-new-groucho.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2025/01/08/todays-mood-music-the-trashmen.html",
+				
+				"content_html": "<p>Today’s mood music: <a href=\"https://youtu.be/FDErmqSxLNw?si=rFxSAG988NwTaXeJ\">The Trashmen Surfin’ bird</a></p>\n",
+				"content_text": "Today’s mood music: [The Trashmen Surfin’ bird](https://youtu.be/FDErmqSxLNw?si=rFxSAG988NwTaXeJ)\n",
+				"date_published": "2025-01-08T08:04:21+11:00",
+				"url": "https://micro.duncanhart.com/2025/01/08/todays-mood-music-the-trashmen.html"
+			},
+			{
+				"id": "http://duncanhart.micro.blog/2025/01/07/todays-mood-music-faithless-insomnia.html",
+				
+				"content_html": "<p>Today&rsquo;s mood music: <a href=\"https://youtu.be/EfPzoRpIrXo?si=eGWG5cTNSWMdw7mi\">Faithless - Insomnia (Later with Jools Holland - 1997)</a></p>\n",
+				"content_text": "Today's mood music: [Faithless - Insomnia (Later with Jools Holland - 1997)](https://youtu.be/EfPzoRpIrXo?si=eGWG5cTNSWMdw7mi)\n",
+				"date_published": "2025-01-07T16:46:36+11:00",
+				"url": "https://micro.duncanhart.com/2025/01/07/todays-mood-music-faithless-insomnia.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2025/01/06/todays-mood-music-once-in.html",
 				
 				"content_html": "<p>Today&rsquo;s mood music: <a href=\"https://youtu.be/ysj52q7m0lY?si=IL5is7KR4G-kXaHZ\">Once in a Lifetime (Live) | David Byrne&rsquo;s American Utopia</a></p>\n",
