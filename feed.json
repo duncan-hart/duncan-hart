@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2025/02/07/dahlia.html",
+				
+				"content_html": "<p>Dahlia.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dahlia.\n\n<img src=\"uploads/2025/3ea859ec99.jpg\" width=\"600\" height=\"584\" alt=\"\">\n",
+				"date_published": "2025-02-07T20:49:15+11:00",
+				"url": "https://micro.duncanhart.com/2025/02/07/dahlia.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2025/01/26/todays-mood-music-kate-bush.html",
 				
 				"content_html": "<p>Today’s mood music: <a href=\"https://youtu.be/wp43OdtAAkM?si=zOdlr_KKU1AnLv8z\">Kate Bush, Running up that hill</a>.</p>\n",
