@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2025/09/23/progress-is-impossible-without-change.html",
+				
+				"content_html": "<p>“Progress is impossible without change, and those who cannot change their minds cannot change anything”&hellip; George Bernard Shaw</p>\n",
+				"content_text": "“Progress is impossible without change, and those who cannot change their minds cannot change anything”... George Bernard Shaw\n",
+				"date_published": "2025-09-23T18:33:05+10:00",
+				"url": "https://micro.duncanhart.com/2025/09/23/progress-is-impossible-without-change.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2025/09/13/flowers-photography.html",
 				
 				"content_html": "<p>#flowers #photography</p>\n<img src=\"uploads/2025/3b06149528.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
@@ -41,8 +49,8 @@
 			{
 				"id": "http://duncanhart.micro.blog/2025/09/06/flowers-photography.html",
 				
-				"content_html": "<p>#flowers #photography</p>\n<img src=\"uploads/2025/a10b5e908b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "#flowers #photography\n\n<img src=\"uploads/2025/a10b5e908b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>#flowers #photography</p>\n<img src=\"https://eu.uploads.micro.blog/41163/2025/a10b5e908b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "#flowers #photography\n\n<img src=\"https://eu.uploads.micro.blog/41163/2025/a10b5e908b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-09-06T08:05:19+10:00",
 				"url": "https://micro.duncanhart.com/2025/09/06/flowers-photography.html"
 			},
@@ -65,8 +73,8 @@
 			{
 				"id": "http://duncanhart.micro.blog/2025/08/31/flowers-photography.html",
 				
-				"content_html": "<p>#flowers #photography</p>\n<img src=\"uploads/2025/87ca4f3f86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "#flowers #photography\n\n<img src=\"uploads/2025/87ca4f3f86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>#flowers #photography</p>\n<img src=\"https://eu.uploads.micro.blog/41163/2025/87ca4f3f86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "#flowers #photography\n\n<img src=\"https://eu.uploads.micro.blog/41163/2025/87ca4f3f86.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-08-31T12:34:17+10:00",
 				"url": "https://micro.duncanhart.com/2025/08/31/flowers-photography.html"
 			},
@@ -529,8 +537,8 @@
 			{
 				"id": "http://duncanhart.micro.blog/2025/05/07/drying-wet-socks-when-youre.html",
 				"title": "Drying wet socks when you’re hiking",
-				"content_html": "<p>Wet socks when you’re #hiking in the backcountry are no fun. When the weather is cold and wet drying your wet socks overnight can be difficult and putting cold, wet gear on the next day is a miserable experience and an instant morale drain. When all else fails I’ve taken to putting boiling water in my water bottle and putting the hot water bottle in my wet socks. The socks dry in no time and you’re then good to go. #hikingtip #wetsocks</p>\n<img src=\"https://eu.uploads.micro.blog/41163/2025/0abf4c19f8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "Wet socks when you’re #hiking in the backcountry are no fun. When the weather is cold and wet drying your wet socks overnight can be difficult and putting cold, wet gear on the next day is a miserable experience and an instant morale drain. When all else fails I’ve taken to putting boiling water in my water bottle and putting the hot water bottle in my wet socks. The socks dry in no time and you’re then good to go. #hikingtip #wetsocks\n\n\n\n<img src=\"https://eu.uploads.micro.blog/41163/2025/0abf4c19f8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_html": "<p>Wet socks when you’re #hiking in the backcountry are no fun. When the weather is cold and wet drying your wet socks overnight can be difficult and putting cold, wet gear on the next day is a miserable experience and an instant morale drain. When all else fails I’ve taken to putting boiling water in my water bottle and putting the hot water bottle in my wet socks. The socks dry in no time and you’re then good to go. #hikingtip #wetsocks</p>\n<img src=\"uploads/2025/0abf4c19f8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Wet socks when you’re #hiking in the backcountry are no fun. When the weather is cold and wet drying your wet socks overnight can be difficult and putting cold, wet gear on the next day is a miserable experience and an instant morale drain. When all else fails I’ve taken to putting boiling water in my water bottle and putting the hot water bottle in my wet socks. The socks dry in no time and you’re then good to go. #hikingtip #wetsocks\n\n\n\n<img src=\"uploads/2025/0abf4c19f8.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-05-07T12:47:30+10:00",
 				"url": "https://micro.duncanhart.com/2025/05/07/drying-wet-socks-when-youre.html"
 			},
