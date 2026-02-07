@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2026/02/07/there-are-no-gorillas-in.html",
+				
+				"content_html": "<p>There are no gorillas in The Lion King, just sayin’.</p>\n",
+				"content_text": "There are no gorillas in The Lion King, just sayin’.\n",
+				"date_published": "2026-02-07T13:34:14+11:00",
+				"url": "https://micro.duncanhart.com/2026/02/07/there-are-no-gorillas-in.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2026/01/30/culture-is-often-the-downstream.html",
 				
 				"content_html": "<p>&ldquo;Culture is often the downstream adaptation to the constraints people are living inside.&rdquo; &hellip;.</p>\n",
