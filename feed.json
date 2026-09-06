@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://duncanhart.micro.blog/2026/09/06/173315.html",
+				
+				"content_html": "<p>The Cybernetics of David Allen’s Getting Things Done (GTD®)</p>\n<p>David Allen’s Getting Things Done read as applied cybernetics: why it works, how it fails, and where its blind spot becomes the governance problem in miniature.</p>\n<p>Originally published at: <a href=\"https://www.duncanhart.com/gtd-cybernetics\">www.duncanhart.com/gtd-cyber&hellip;</a></p>\n<img src=\"uploads/2026/gtdbookdavidallen.jpg\" width=\"600\" height=\"300\" alt=\"‘Getting Things Done’ by David Allen – 2015 Edition\">\n",
+				"content_text": "The Cybernetics of David Allen’s Getting Things Done (GTD®)\n\nDavid Allen’s Getting Things Done read as applied cybernetics: why it works, how it fails, and where its blind spot becomes the governance problem in miniature. \n\nOriginally published at: [www.duncanhart.com/gtd-cyber...](https://www.duncanhart.com/gtd-cybernetics)\n\n<img src=\"uploads/2026/gtdbookdavidallen.jpg\" width=\"600\" height=\"300\" alt=\"‘Getting Things Done’ by David Allen – 2015 Edition\">\n",
+				"date_published": "2026-09-06T17:33:15+10:00",
+				"url": "https://micro.duncanhart.com/2026/09/06/173315.html"
+			},
+			{
 				"id": "http://duncanhart.micro.blog/2026/08/19/im-very-happy-with-hosting.html",
 				
 				"content_html": "<p>I&rsquo;m very happy with hosting my own email server using <a href=\"https://stalw.art/\">Stalwart</a>.</p>\n",
